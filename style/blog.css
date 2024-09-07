@@ -1,0 +1,62 @@
+
+.header{
+     height: 300px;
+     font-size: 30px;
+     background-image: url(../rasel/tt.jpg);
+     /*background-image: url(../ll.jpg);*/
+        /*background-image: url(hi.jpg);*/
+        /*background-repeat: no-repeat;*/
+
+      /*  background-repeat:repeat-x ;*/
+       /* background-repeat:repeat-y ;*/
+       /* background-size:  cover ;*/
+      /*  background-size: contain ;*/
+        /*background-size: 200px ;*/
+       color: rgb(255, 0, 149);
+
+}
+
+
+
+h3{
+     font-size: 30px;
+
+     text-decoration: overline;
+     font-family: 'Courier New', Courier, monospace;
+}
+
+.blog{
+     margin: 40px;
+     border: 10px solid tomato;
+
+
+     box-shadow: 10px 10px 20px blueviolet;
+
+
+}
+
+.second{
+     /*display: none;*/
+     /*visibility: hidden;*/
+}
+
+.incident{
+     border: 2px  solid purple;
+     margin: 20px;
+     display: inline-block;
+}
+
+li{
+     display: inline;
+}
+
+
+.dolor{
+     border: 2px solid peru;
+     height: 60px;
+
+     display: inline-block;
+}
+
+
+
